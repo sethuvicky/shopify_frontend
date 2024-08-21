@@ -1,5 +1,6 @@
 Shopify Frontend Application
-This React.js application displays Shopify order and customer data fetched from a backend API. It allows users to view, sort, and filter orders and customers, making it easier to manage store data.
+This React.js application displays Shopify order and customer data fetched from a backend API.
+It allows users to view, sort, and filter orders and customers, making it easier to manage store data.
 
 Features
 Orders: View a list of orders with details like order ID, email, total price, and status. Sort orders by date or total price.
