@@ -18,3 +18,12 @@ Prerequisites
 Node.js installed.
 Steps
 Clone the repository
+git clone https://github.com/yourusername/shopify_frontend.git
+Navigate to the project directory:
+cd shopify_frontend
+Install dependencies:
+npm install
+Start the application:
+npm start
+Access the app:
+Open your browser and go to http://localhost:3000.
