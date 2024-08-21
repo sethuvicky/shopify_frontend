@@ -1,4 +1,4 @@
-Shopify Frontend Application
+Shopify  Frontend Application
 This React.js application displays Shopify order and customer data fetched from a backend API. It allows users to view, sort, and filter orders and customers, making it easier to manage store data.
 
 Features
